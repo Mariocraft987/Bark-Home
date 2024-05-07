@@ -27,6 +27,7 @@ import sk from '../translations/sk.json';
 import uk from '../translations/uk.json';
 import ja from '../translations/ja.json';
 import fa from '../translations/fa.json';
+import gzv from '../translations/gzv.json';
 import uwu from '../translations/uwu.json';
 import test from '../translations/test.json';
 
@@ -61,6 +62,7 @@ const languages = {
     // "id": id,                   // Bahasa Indonesia: has no translator anymore, and theres too much untranslated text now
     
     // uncomment joke languages when we have >30 regular langs to hide them
+    // "gzv": gzv,
     // "uwu": uwu,
     // "test": test,
 };
